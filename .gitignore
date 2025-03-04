@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+# Editor files
+.vscode/
+.idea/
+
+# temp dir
+/temp
+
+# output dir
+/target
+
+Cargo.lock
+
+rsync.sh
+start.sh
